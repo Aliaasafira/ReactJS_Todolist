@@ -1,0 +1,27 @@
+.App {
+  max-width: 400px;
+  margin: 30px auto;
+}
+
+body{
+  background-color: lightsteelblue;
+}
+
+h1, h4{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+}
+
+h6{
+  text-align: left;
+  margin-left: 10px;
+}
+
+.check{
+  margin-left: 0;
+  margin-right: 10px;
+}
+
+/* .btn-space {
+  margin-right: 5px;
+} */
